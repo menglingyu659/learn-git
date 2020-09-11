@@ -14,7 +14,6 @@ import { Form } from "antd";
 console.log(1);
 console.log(3);
 console.log(4);
-console.log(5);
 function App() {
   const [form] = Form.useForm();
   console.log(form, "internal");
