@@ -1,7 +1,7 @@
 import React from "react";
 import { Form } from "antd";
 
-console.log('--------------');
+console.log(1)
 
 function App() {
   const [form] = Form.useForm();
